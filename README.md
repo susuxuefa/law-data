@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://susujuris.cn/data.html"><img alt="数据页" src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E9%A1%B5-susujuris.cn%2Fdata.html-32689f?style=flat-square"></a>
+  <a href="https://susujuris.cn/documents.html"><img alt="在线阅读" src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E9%A1%B5-susujuris.cn%2Fdocuments.html-32689f?style=flat-square"></a>
   <a href="https://github.com/susuxuefa/law-data/releases"><img alt="版本" src="https://img.shields.io/badge/version-v2026.10-c8923f?style=flat-square"></a>
   <img alt="司法解释" src="https://img.shields.io/badge/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A-259-2f6f5e?style=flat-square">
   <img alt="指导性案例" src="https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%80%A7%E6%A1%88%E4%BE%8B-279-2f6f5e?style=flat-square">
@@ -20,7 +20,9 @@
 2. **指导案例还能不能引？** 279 篇里 6 篇已被通知「不再参照与适用」，如实标注，不混进正常案例；
 3. **引用时怎么给出处？** 每篇带文号／案例编号、公布与施行日期、官方链接，可直接进脚注。
 
-在线阅读与检索：<https://susujuris.cn/data.html>
+在线阅读：<https://susujuris.cn/documents.html>（司法文件入口）
+
+数据获取与说明：<https://susujuris.cn/data.html>
 
 ## 目录
 
