@@ -1,7 +1,7 @@
 {
   "name": "susujuris-law-data",
-  "version": "v2026.10",
-  "generated_at": "2026-10-21",
+  "version": "v2026.11",
+  "generated_at": "2026-10-22",
   "counts": {
     "judicial_interpretations": 259,
     "guiding_cases": 279

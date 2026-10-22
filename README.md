@@ -1,74 +1,60 @@
-<p align="center">
-  <img src=".github/assets/banner.svg" alt="法律数据：现行有效司法解释与指导性案例" width="100%">
+﻿<p align="center">
+  <img src=".github/assets/banner.svg" alt="娉曞緥鏁版嵁锛氱幇琛屾湁鏁堝徃娉曡В閲婁笌鎸囧鎬ф渚? width="100%">
 </p>
 
 <p align="center">
-  <a href="https://susujuris.cn/documents.html"><img alt="在线阅读" src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-susujuris.cn%2Fdocuments.html-32689f?style=flat-square"></a>
-  <a href="https://github.com/susuxuefa/law-data/releases"><img alt="版本" src="https://img.shields.io/badge/version-v2026.10-c8923f?style=flat-square"></a>
-  <img alt="司法解释" src="https://img.shields.io/badge/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A-259-2f6f5e?style=flat-square">
-  <img alt="指导性案例" src="https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%80%A7%E6%A1%88%E4%BE%8B-279-2f6f5e?style=flat-square">
+  <a href="https://susujuris.cn/documents.html"><img alt="鍦ㄧ嚎闃呰" src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-susujuris.cn%2Fdocuments.html-32689f?style=flat-square"></a>
+  <a href="https://github.com/susuxuefa/law-data/releases"><img alt="鐗堟湰" src="https://img.shields.io/badge/version-v2026.11-c8923f?style=flat-square"></a>
+  <img alt="鍙告硶瑙ｉ噴" src="https://img.shields.io/badge/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A-259-2f6f5e?style=flat-square">
+  <img alt="鎸囧鎬ф渚? src="https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%80%A7%E6%A1%88%E4%BE%8B-279-2f6f5e?style=flat-square">
   <a href="https://orcid.org/0009-0005-3241-7366"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--3241--7366-a6ce39?style=flat-square"></a>
-  <a href="LICENSE"><img alt="许可" src="https://img.shields.io/badge/license-CC%20BY%204.0-8a8f98?style=flat-square"></a>
+  <a href="LICENSE"><img alt="璁稿彲" src="https://img.shields.io/badge/license-CC%20BY%204.0-8a8f98?style=flat-square"></a>
 </p>
 
-<p align="center"><strong>带效力状态的中国法律数据：哪条还有效、案例还能不能引、出处在哪里。</strong></p>
+<p align="center"><strong>甯︽晥鍔涚姸鎬佺殑涓浗娉曞緥鏁版嵁锛氬摢鏉¤繕鏈夋晥銆佹渚嬭繕鑳戒笉鑳藉紩銆佸嚭澶勫湪鍝噷銆?/strong></p>
 
-## 为什么会有这个库
+## 涓轰粈涔堜細鏈夎繖涓簱
 
-法律文本到处都有，难的是三件事：
+娉曞緥鏂囨湰鍒板閮芥湁锛岄毦鐨勬槸涓変欢浜嬶細
 
-1. **这条司法解释还有效吗？** 只收现行有效文本；已废止、已被修改的旧文本剔除，并记录依据；
-2. **指导案例还能不能引？** 279 篇里 6 篇已被通知「不再参照与适用」，如实标注，不混进正常案例；
-3. **引用时怎么给出处？** 每篇带文号／案例编号、公布与施行日期、官方链接，可直接进脚注。
+1. **杩欐潯鍙告硶瑙ｉ噴杩樻湁鏁堝悧锛?* 鍙敹鐜拌鏈夋晥鏂囨湰锛涘凡搴熸銆佸凡琚慨鏀圭殑鏃ф枃鏈墧闄わ紝骞惰褰曚緷鎹紱
+2. **鎸囧妗堜緥杩樿兘涓嶈兘寮曪紵** 279 绡囬噷 6 绡囧凡琚€氱煡銆屼笉鍐嶅弬鐓т笌閫傜敤銆嶏紝濡傚疄鏍囨敞锛屼笉娣疯繘姝ｅ父妗堜緥锛?3. **寮曠敤鏃舵€庝箞缁欏嚭澶勶紵** 姣忕瘒甯︽枃鍙凤紡妗堜緥缂栧彿銆佸叕甯冧笌鏂借鏃ユ湡銆佸畼鏂归摼鎺ワ紝鍙洿鎺ヨ繘鑴氭敞銆?
+鍦ㄧ嚎闃呰锛?https://susujuris.cn/documents.html>锛堝徃娉曟枃浠跺叆鍙ｏ級
 
-在线阅读：<https://susujuris.cn/documents.html>（司法文件入口）
+鏁版嵁鑾峰彇涓庤鏄庯細<https://susujuris.cn/data.html>
 
-数据获取与说明：<https://susujuris.cn/data.html>
+## 鐩綍
 
-## 目录
-
-| 路径 | 内容 | 数量 |
+| 璺緞 | 鍐呭 | 鏁伴噺 |
 |---|---|---|
-| `judicial-interpretations/` | 现行有效司法解释全文（Markdown + YAML 头） | 259 |
-| `guiding-cases/` | 最高人民法院指导性案例全文（Markdown + YAML 头） | 279 |
-| `data/shifashi.json / .csv` | 司法解释元数据 | 259 |
-| `data/guiding-cases.json / .csv` | 指导性案例元数据 | 279 |
-| `MANIFEST.json` | 版本、数量、来源 | — |
-| `STATUS.md` | 收录口径、已知缺口、待办 | — |
+| `judicial-interpretations/` | 鐜拌鏈夋晥鍙告硶瑙ｉ噴鍏ㄦ枃锛圡arkdown + YAML 澶达級 | 259 |
+| `guiding-cases/` | 鏈€楂樹汉姘戞硶闄㈡寚瀵兼€ф渚嬪叏鏂囷紙Markdown + YAML 澶达級 | 279 |
+| `data/shifashi.json / .csv` | 鍙告硶瑙ｉ噴鍏冩暟鎹?| 259 |
+| `data/guiding-cases.json / .csv` | 鎸囧鎬ф渚嬪厓鏁版嵁 | 279 |
+| `MANIFEST.json` | 鐗堟湰銆佹暟閲忋€佹潵婧?| 鈥?|
+| `STATUS.md` | 鏀跺綍鍙ｅ緞銆佸凡鐭ョ己鍙ｃ€佸緟鍔?| 鈥?|
 
-字段：
+瀛楁锛?
+- 鍙告硶瑙ｉ噴锛歚n / slug / title / type / fsNo / pubDate / impl / url`
+- 鎸囧鎬ф渚嬶細`n / title / plain / cause / year / pub / url / kw / laws`
 
-- 司法解释：`n / slug / title / type / fsNo / pubDate / impl / url`
-- 指导性案例：`n / title / plain / cause / year / pub / url / kw / laws`
-
-## 怎么用
-
-- **读**：直接打开 Markdown，文件头的 YAML 有文号、日期、效力与官方链接；
-- **查**：CSV 用 Excel／WPS 打开，按类型、年份、施行日期筛选；
-- **建**：JSON 导入 SQLite／Notion，或作为检索、RAG 的目录层（正文再回官方链接）；
-- **引**：
-
+## 鎬庝箞鐢?
+- **璇?*锛氱洿鎺ユ墦寮€ Markdown锛屾枃浠跺ご鐨?YAML 鏈夋枃鍙枫€佹棩鏈熴€佹晥鍔涗笌瀹樻柟閾炬帴锛?- **鏌?*锛欳SV 鐢?Excel锛廤PS 鎵撳紑锛屾寜绫诲瀷銆佸勾浠姐€佹柦琛屾棩鏈熺瓫閫夛紱
+- **寤?*锛欽SON 瀵煎叆 SQLite锛廚otion锛屾垨浣滀负妫€绱€丷AG 鐨勭洰褰曞眰锛堟鏂囧啀鍥炲畼鏂归摼鎺ワ級锛?- **寮?*锛?
 ```
-苏酥. 最高人民法院现行有效司法解释库（v2026.10）[DB/OL]. 苏酥学法, 2026-10-21.
+鑻忛叆. 鏈€楂樹汉姘戞硶闄㈢幇琛屾湁鏁堝徃娉曡В閲婂簱锛坴2026.10锛塠DB/OL]. 鑻忛叆瀛︽硶, 2026-10-21.
 https://susujuris.cn/data.html.
 ```
 
-## 版本与更新
+## 鐗堟湰涓庢洿鏂?
+鐗堟湰鍙峰舰濡?`v2026.11`锛屾瘡娆℃牳瀵瑰湪 [STATUS.md](STATUS.md) 璁颁竴鏉″彉鏇达紝骞跺湪 [Releases](https://github.com/susuxuefa/law-data/releases) 鍙戝竷銆?
+鐘舵€佸垽鏂緷鎹渶楂樹汉姘戞硶闄㈠巻娆″簾姝€佷慨鏀瑰喅瀹氾紙鍚硶閲娿€?020銆?6鍙锋皯娉曞吀閰嶅娓呯悊娓呭崟锛夛紝涓庡畼鏂规鏂囦氦鍙夋瘮瀵广€傛鏂囦互瀹樻柟鍙戝竷涓哄噯銆?
+## 鍙備笌
 
-版本号形如 `v2026.10`，每次核对在 [STATUS.md](STATUS.md) 记一条变更，并在 [Releases](https://github.com/susuxuefa/law-data/releases) 发布。
+鍙戠幇閿欐紡銆佺姸鎬佽繃鏈熴€佸畼鏂归摼鎺ュけ鏁堬紝娆㈣繋寮€ issue 鎴栫洿鎺?PR锛岃 [CONTRIBUTING.md](CONTRIBUTING.md)銆備笉鐢ㄥ厛鎴愪负璐＄尞鑰呮墠鑳芥彁闂€?
+## 璁稿彲
 
-状态判断依据最高人民法院历次废止、修改决定（含法释〔2020〕16号民法典配套清理清单），与官方正文交叉比对。正文以官方发布为准。
+- **姝ｆ枃**锛氬浗瀹舵満鍏冲畼鏂规枃浠讹紝渚濄€婅憲浣滄潈娉曘€嬬浜旀潯涓嶅彈钁椾綔鏉冧繚鎶わ紝鍙嚜鐢卞鍒躲€佽浆杞姐€佹憳缂栵紝鍟嗙敤鏃犻渶璁稿彲锛?- **鏁寸悊鎴愭灉**锛堢瓫閫夊彛寰勩€佹晥鍔涙爣娉ㄣ€佸瓧娈电粨鏋勶級锛歔CC BY 4.0](LICENSE)銆傜讲鍚嶃€岃嫃閰ュ娉曘€嶅苟閾炬帴鍥?<https://susujuris.cn/data.html> 鏄姹傦紝涓嶆槸闄愬埗銆?
+## 鐩稿叧椤圭洰
 
-## 参与
-
-发现错漏、状态过期、官方链接失效，欢迎开 issue 或直接 PR，见 [CONTRIBUTING.md](CONTRIBUTING.md)。不用先成为贡献者才能提问。
-
-## 许可
-
-- **正文**：国家机关官方文件，依《著作权法》第五条不受著作权保护，可自由复制、转载、摘编，商用无需许可；
-- **整理成果**（筛选口径、效力标注、字段结构）：[CC BY 4.0](LICENSE)。署名「苏酥学法」并链接回 <https://susujuris.cn/data.html> 是请求，不是限制。
-
-## 相关项目
-
-- [Just Laws](https://github.com/ImCa0/just-laws)：开源中国法律文库，法律原文清晰可读；
-- [苏酥学法](https://susujuris.cn/)：法经济学笔记、概念库与站内检索。
+- [Just Laws](https://github.com/ImCa0/just-laws)锛氬紑婧愪腑鍥芥硶寰嬫枃搴擄紝娉曞緥鍘熸枃娓呮櫚鍙锛?- [鑻忛叆瀛︽硶](https://susujuris.cn/)锛氭硶缁忔祹瀛︾瑪璁般€佹蹇靛簱涓庣珯鍐呮绱€?
