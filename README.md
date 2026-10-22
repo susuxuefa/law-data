@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://susujuris.cn/documents.html"><img alt="在线阅读" src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E9%A1%B5-susujuris.cn%2Fdocuments.html-32689f?style=flat-square"></a>
+  <a href="https://susujuris.cn/documents.html"><img alt="在线阅读" src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-susujuris.cn%2Fdocuments.html-32689f?style=flat-square"></a>
   <a href="https://github.com/susuxuefa/law-data/releases"><img alt="版本" src="https://img.shields.io/badge/version-v2026.10-c8923f?style=flat-square"></a>
   <img alt="司法解释" src="https://img.shields.io/badge/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A-259-2f6f5e?style=flat-square">
   <img alt="指导性案例" src="https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%80%A7%E6%A1%88%E4%BE%8B-279-2f6f5e?style=flat-square">
