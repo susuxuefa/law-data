@@ -1,0 +1,14 @@
+{
+  "name": "susujuris-law-data",
+  "version": "v2026.10",
+  "generated_at": "2026-10-21",
+  "counts": {
+    "judicial_interpretations": 259,
+    "guiding_cases": 279
+  },
+  "sources": [
+    "最高人民法院 权威发布 > 司法解释",
+    "最高人民法院 指导性案例"
+  ],
+  "site": "https://susujuris.cn/data.html"
+}
