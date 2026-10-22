@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="法律数据：现行有效司法解释与指导性案例">
+  <rect width="1280" height="300" fill="#f7f3ea"/>
+  <g stroke="#e4ddcd" stroke-width="1">
+    <path d="M0 60H1280M0 120H1280M0 180H1280M0 240H1280"/>
+  </g>
+  <rect x="72" y="54" width="4" height="192" fill="#32689f"/>
+  <text x="104" y="112" font-family="Songti SC, Noto Serif SC, Source Han Serif SC, serif" font-size="54" fill="#1f2d3d" letter-spacing="4">法律数据</text>
+  <text x="106" y="152" font-family="-apple-system, Segoe UI, Noto Sans SC, sans-serif" font-size="18" fill="#5b6675" letter-spacing="2">现行有效 · 效力状态 · 官方原文链接</text>
+  <text x="106" y="204" font-family="-apple-system, Segoe UI, Noto Sans SC, sans-serif" font-size="14" fill="#8a8f98">司法解释与指导性案例 · Markdown / CSV / JSON</text>
+  <g font-family="-apple-system, Segoe UI, Noto Sans SC, sans-serif" text-anchor="end">
+    <text x="1208" y="104" font-size="44" fill="#32689f">259</text>
+    <text x="1208" y="128" font-size="13" fill="#8a8f98">司法解释（现行有效）</text>
+    <text x="1208" y="182" font-size="44" fill="#c8923f">279</text>
+    <text x="1208" y="206" font-size="13" fill="#8a8f98">指导性案例</text>
+  </g>
+  <text x="1208" y="264" text-anchor="end" font-family="-apple-system, Segoe UI, Noto Sans SC, sans-serif" font-size="13" fill="#8a8f98">susujuris.cn</text>
+</svg>
