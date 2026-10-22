@@ -7,6 +7,7 @@
   <a href="https://github.com/susuxuefa/law-data/releases"><img alt="版本" src="https://img.shields.io/badge/version-v2026.10-c8923f?style=flat-square"></a>
   <img alt="司法解释" src="https://img.shields.io/badge/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A-259-2f6f5e?style=flat-square">
   <img alt="指导性案例" src="https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%80%A7%E6%A1%88%E4%BE%8B-279-2f6f5e?style=flat-square">
+  <a href="https://orcid.org/0009-0005-3241-7366"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--3241--7366-a6ce39?style=flat-square"></a>
   <a href="LICENSE"><img alt="许可" src="https://img.shields.io/badge/license-CC%20BY%204.0-8a8f98?style=flat-square"></a>
 </p>
 
