@@ -1,10 +1,12 @@
 {
   "name": "susujuris-law-data",
   "version": "v2026.11",
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "counts": {
     "judicial_interpretations": 259,
-    "guiding_cases": 279
+    "guiding_cases": 279,
+    "amended_old_texts": 29,
+    "amendment_decisions": 28
   },
   "sources": [
     "最高人民法院 权威发布 > 司法解释",
