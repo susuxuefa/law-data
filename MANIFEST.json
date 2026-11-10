@@ -1,16 +1,34 @@
 {
   "name": "susujuris-law-data",
-  "version": "v2026.11",
-  "generated_at": "2026-10-23",
+  "version": "v2026.12",
+  "generated_at": "2026-11-09",
+  "site": "https://susujuris.cn/data.html",
   "counts": {
-    "judicial_interpretations": 259,
+    "judicial_interpretations": 347,
+    "judicial_interpretations_current": 297,
+    "judicial_interpretations_amended": 50,
     "guiding_cases": 279,
+    "guiding_cases_referenced": 273,
+    "guiding_cases_retired": 6,
     "amended_old_texts": 29,
     "amendment_decisions": 28
   },
+  "files": {
+    "judicial-interpretations/": "Markdown + YAML 头，含正文",
+    "guiding-cases/": "Markdown + YAML 头，含正文",
+    "data/shifashi.json": "司法解释元数据（JSON）",
+    "data/shifashi.csv": "司法解释元数据（CSV，UTF-8 BOM）",
+    "data/guiding-cases.json": "指导性案例元数据（JSON）",
+    "data/guiding-cases.csv": "指导性案例元数据（CSV，UTF-8 BOM）",
+    "data/shifashi-amended.json": "修改前旧版与修改决定清单"
+  },
   "sources": [
-    "最高人民法院 权威发布 > 司法解释",
-    "最高人民法院 指导性案例"
+    "最高人民法院官网 权威发布 > 司法解释",
+    "最高人民法院 指导性案例",
+    "国家法律法规数据库 flk.npc.gov.cn（效力状态）"
   ],
-  "site": "https://susujuris.cn/data.html"
+  "license": {
+    "text": "正文无著作权（《著作权法》第五条）",
+    "curation": "CC BY 4.0"
+  }
 }

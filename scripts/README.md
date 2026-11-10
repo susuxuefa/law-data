@@ -6,6 +6,6 @@
 
 1. 元数据字段见 README；
 2. 正文以 Markdown + YAML 头组织，文件名为零填充编号；
-3. 有新版本时通过 release 发布，`MANIFEST.json` 记录版本与数量。
+3. 有新版本时通过 release 发布，`MANIFEST.json` 记录版本与数量（当前 v2026.12：司法解释 347、指导性案例 279）。
 
 愿意贡献脚本，欢迎先开 issue 讨论接口。
